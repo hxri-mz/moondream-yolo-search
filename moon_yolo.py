@@ -9,7 +9,7 @@ from PIL import Image, ImageDraw
 import random
 import torch
 
-torch.classes.__path__ = [os.path.join(torch.__path__[0], torch.classes.__file__)] 
+torch.classes.__path__ = []
 
 @st.cache_resource
 def load_model():
