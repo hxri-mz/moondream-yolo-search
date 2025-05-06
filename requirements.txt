@@ -3,3 +3,4 @@ pillow
 transformers
 accelerate
 numpy
+torch
