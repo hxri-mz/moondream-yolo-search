@@ -1,0 +1,1486 @@
+{
+    "7.jpg": {
+        "detections": [
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.79534,
+                "box": {
+                    "x1": 2635.86914,
+                    "y1": 861.43652,
+                    "x2": 2948.01416,
+                    "y2": 1387.78271
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.76849,
+                "box": {
+                    "x1": 1741.17603,
+                    "y1": 881.23804,
+                    "x2": 1968.41992,
+                    "y2": 1324.45996
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.73887,
+                "box": {
+                    "x1": 1719.46692,
+                    "y1": 1140.58911,
+                    "x2": 1957.06531,
+                    "y2": 1438.18262
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.6675,
+                "box": {
+                    "x1": 2430.62598,
+                    "y1": 989.79626,
+                    "x2": 2718.73267,
+                    "y2": 1240.2124
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.65444,
+                "box": {
+                    "x1": 2670.57812,
+                    "y1": 1123.56323,
+                    "x2": 2960.00781,
+                    "y2": 1462.3208
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.49457,
+                "box": {
+                    "x1": 0.0,
+                    "y1": 994.27844,
+                    "x2": 125.68811,
+                    "y2": 1264.2876
+                }
+            },
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.47081,
+                "box": {
+                    "x1": 2148.87085,
+                    "y1": 988.45312,
+                    "x2": 2308.72119,
+                    "y2": 1182.62659
+                }
+            },
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.35061,
+                "box": {
+                    "x1": 1918.95532,
+                    "y1": 975.99078,
+                    "x2": 2051.43774,
+                    "y2": 1209.86377
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.33687,
+                "box": {
+                    "x1": 0.01667,
+                    "y1": 996.64655,
+                    "x2": 123.99478,
+                    "y2": 1182.75195
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.27571,
+                "box": {
+                    "x1": 2297.98315,
+                    "y1": 1021.42621,
+                    "x2": 2425.7959,
+                    "y2": 1121.98572
+                }
+            }
+        ],
+        "description": {
+            "answer": " The scene is a city street with two motorcyclists riding down the road. There are three lanes, and the road appears to be marked with white lines. The weather is sunny, and the time of day is morning. There are no pedestrians visible in the image."
+        }
+    },
+    "6.jpg": {
+        "detections": [
+            {
+                "name": "bus",
+                "class": 5,
+                "confidence": 0.9229,
+                "box": {
+                    "x1": 511.35773,
+                    "y1": 635.08594,
+                    "x2": 1528.9856,
+                    "y2": 1230.37061
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.53589,
+                "box": {
+                    "x1": 0.09945,
+                    "y1": 1027.9281,
+                    "x2": 115.76935,
+                    "y2": 1211.5968
+                }
+            }
+        ],
+        "description": {
+            "answer": " The scene depicts a city street with a green bus, two other vehicles, and a pedestrian. The street has two lanes, and there are markings on the road. It appears to be a sunny day, and the time of day is likely morning or early afternoon."
+        }
+    },
+    "9.jpg": {
+        "detections": [
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.89616,
+                "box": {
+                    "x1": 2283.33911,
+                    "y1": 870.50958,
+                    "x2": 3403.44678,
+                    "y2": 1520.37329
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.76259,
+                "box": {
+                    "x1": 869.2981,
+                    "y1": 867.92041,
+                    "x2": 1015.00024,
+                    "y2": 1255.76538
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.61729,
+                "box": {
+                    "x1": 0.0,
+                    "y1": 824.13922,
+                    "x2": 731.27124,
+                    "y2": 1335.25977
+                }
+            },
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.5291,
+                "box": {
+                    "x1": 1680.23389,
+                    "y1": 832.17627,
+                    "x2": 2178.02832,
+                    "y2": 1408.87744
+                }
+            },
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.47252,
+                "box": {
+                    "x1": 1205.6488,
+                    "y1": 877.19037,
+                    "x2": 1555.7937,
+                    "y2": 1263.72046
+                }
+            },
+            {
+                "name": "bus",
+                "class": 5,
+                "confidence": 0.46293,
+                "box": {
+                    "x1": 1212.61328,
+                    "y1": 871.66187,
+                    "x2": 1561.02002,
+                    "y2": 1263.28247
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.39081,
+                "box": {
+                    "x1": 1001.01672,
+                    "y1": 922.04132,
+                    "x2": 1098.7251,
+                    "y2": 1243.97119
+                }
+            },
+            {
+                "name": "bus",
+                "class": 5,
+                "confidence": 0.33756,
+                "box": {
+                    "x1": 1631.49463,
+                    "y1": 941.46301,
+                    "x2": 1732.08545,
+                    "y2": 1193.92834
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.2606,
+                "box": {
+                    "x1": 710.01215,
+                    "y1": 937.04645,
+                    "x2": 794.79126,
+                    "y2": 1130.39844
+                }
+            }
+        ],
+        "description": {
+            "answer": " The scene is a city street with a mix of vehicles, including cars, auto-rickshaws, and a bus. There are two lanes visible, and the road appears to be marked with white lines. The weather seems to be sunny, and the time of day is likely morning or early evening. Pedestrians are present on the sidewalk."
+        }
+    },
+    "5.jpg": {
+        "detections": [
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.7867,
+                "box": {
+                    "x1": 2829.03076,
+                    "y1": 810.74963,
+                    "x2": 3263.16357,
+                    "y2": 1368.75122
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.71496,
+                "box": {
+                    "x1": 765.93311,
+                    "y1": 918.29828,
+                    "x2": 1592.33313,
+                    "y2": 1417.62476
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.71217,
+                "box": {
+                    "x1": 0.55595,
+                    "y1": 858.90784,
+                    "x2": 343.44003,
+                    "y2": 1589.16431
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.69883,
+                "box": {
+                    "x1": 2761.30151,
+                    "y1": 1108.52515,
+                    "x2": 3200.50928,
+                    "y2": 1526.40417
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.65247,
+                "box": {
+                    "x1": 1437.36865,
+                    "y1": 958.19586,
+                    "x2": 1763.36084,
+                    "y2": 1222.68481
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.5993,
+                "box": {
+                    "x1": 2209.07446,
+                    "y1": 1000.11365,
+                    "x2": 2291.92041,
+                    "y2": 1173.56946
+                }
+            },
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.59366,
+                "box": {
+                    "x1": 2026.70703,
+                    "y1": 946.60266,
+                    "x2": 2178.60327,
+                    "y2": 1114.15857
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.55449,
+                "box": {
+                    "x1": 508.44754,
+                    "y1": 930.05273,
+                    "x2": 596.90527,
+                    "y2": 1153.05469
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.50067,
+                "box": {
+                    "x1": 1727.73816,
+                    "y1": 1027.37976,
+                    "x2": 1897.55017,
+                    "y2": 1135.5426
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.34007,
+                "box": {
+                    "x1": 0.0,
+                    "y1": 1044.88257,
+                    "x2": 425.19067,
+                    "y2": 1577.86121
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.30922,
+                "box": {
+                    "x1": 2731.90479,
+                    "y1": 976.8457,
+                    "x2": 2797.33667,
+                    "y2": 1087.16895
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.30304,
+                "box": {
+                    "x1": 1.32797,
+                    "y1": 1048.83228,
+                    "x2": 423.53339,
+                    "y2": 1873.29822
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.27022,
+                "box": {
+                    "x1": 1713.6698,
+                    "y1": 1026.69482,
+                    "x2": 1855.24548,
+                    "y2": 1128.63452
+                }
+            }
+        ],
+        "description": {
+            "answer": " The scene is a city street with multiple lanes. There are markings on the road, and it appears to be a sunny day. There are a few pedestrians visible. The time of day is likely dusk or dawn, as the sky is a light blue-grey color."
+        }
+    },
+    "11.jpg": {
+        "detections": [
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.9081,
+                "box": {
+                    "x1": 1865.25928,
+                    "y1": 335.02136,
+                    "x2": 2735.59985,
+                    "y2": 1395.3269
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.76469,
+                "box": {
+                    "x1": 0.52551,
+                    "y1": 1133.77295,
+                    "x2": 480.6199,
+                    "y2": 1790.14563
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.75099,
+                "box": {
+                    "x1": 713.78693,
+                    "y1": 866.31793,
+                    "x2": 992.86157,
+                    "y2": 1283.94409
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.75087,
+                "box": {
+                    "x1": 1133.9353,
+                    "y1": 909.04449,
+                    "x2": 1612.09448,
+                    "y2": 1305.30945
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.74041,
+                "box": {
+                    "x1": 1604.15076,
+                    "y1": 971.44299,
+                    "x2": 1879.21252,
+                    "y2": 1190.32764
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.73106,
+                "box": {
+                    "x1": 3200.92896,
+                    "y1": 1006.5412,
+                    "x2": 3838.3894,
+                    "y2": 2093.84717
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.69423,
+                "box": {
+                    "x1": 0.20453,
+                    "y1": 802.81366,
+                    "x2": 396.27292,
+                    "y2": 1725.19458
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.69222,
+                "box": {
+                    "x1": 2695.75854,
+                    "y1": 903.82599,
+                    "x2": 3221.67529,
+                    "y2": 1271.14868
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.66649,
+                "box": {
+                    "x1": 3121.44141,
+                    "y1": 873.24097,
+                    "x2": 3431.96045,
+                    "y2": 1282.6355
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.64548,
+                "box": {
+                    "x1": 721.28088,
+                    "y1": 1063.94482,
+                    "x2": 1000.42987,
+                    "y2": 1376.7937
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.57111,
+                "box": {
+                    "x1": 2946.64404,
+                    "y1": 953.26117,
+                    "x2": 3434.24927,
+                    "y2": 1413.82373
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.43978,
+                "box": {
+                    "x1": 911.77313,
+                    "y1": 939.78027,
+                    "x2": 1122.67139,
+                    "y2": 1213.81665
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.33589,
+                "box": {
+                    "x1": 720.45929,
+                    "y1": 1102.16711,
+                    "x2": 944.11084,
+                    "y2": 1379.13135
+                }
+            }
+        ],
+        "description": {
+            "answer": " The scene depicts a busy street with multiple lanes, marked by white lines. It appears to be a sunny day, with a clear sky. The time of day is likely morning or dusk, as the light is soft and warm. There are no visible pedestrians in the image."
+        }
+    },
+    "4.jpg": {
+        "detections": [
+            {
+                "name": "bus",
+                "class": 5,
+                "confidence": 0.92494,
+                "box": {
+                    "x1": 2322.48047,
+                    "y1": 24.46541,
+                    "x2": 3836.3269,
+                    "y2": 1538.53125
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.625,
+                "box": {
+                    "x1": 1942.44983,
+                    "y1": 1054.51672,
+                    "x2": 2084.48828,
+                    "y2": 1156.69495
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.4819,
+                "box": {
+                    "x1": 2835.04028,
+                    "y1": 709.49585,
+                    "x2": 2963.47046,
+                    "y2": 892.67371
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.46073,
+                "box": {
+                    "x1": 3209.16724,
+                    "y1": 577.6825,
+                    "x2": 3339.7749,
+                    "y2": 820.73462
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.32066,
+                "box": {
+                    "x1": 1825.46313,
+                    "y1": 1063.70117,
+                    "x2": 1914.69775,
+                    "y2": 1138.66577
+                }
+            }
+        ],
+        "description": {
+            "answer": " The scene is a city street with a single lane. It is marked with a white line. The weather is sunny. It is daytime. There are no pedestrians visible."
+        }
+    },
+    "1.jpg": {
+        "detections": [
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.7292,
+                "box": {
+                    "x1": 2351.29834,
+                    "y1": 847.97424,
+                    "x2": 3082.30371,
+                    "y2": 1524.41931
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.55204,
+                "box": {
+                    "x1": 1832.35913,
+                    "y1": 1043.05005,
+                    "x2": 1978.89771,
+                    "y2": 1170.08667
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.49397,
+                "box": {
+                    "x1": 1473.55005,
+                    "y1": 1026.90942,
+                    "x2": 1520.9491,
+                    "y2": 1196.58569
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.47329,
+                "box": {
+                    "x1": 2095.69653,
+                    "y1": 1031.42212,
+                    "x2": 2222.53247,
+                    "y2": 1165.25757
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.45503,
+                "box": {
+                    "x1": 1530.54517,
+                    "y1": 1028.98584,
+                    "x2": 1580.42993,
+                    "y2": 1187.34033
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.38886,
+                "box": {
+                    "x1": 2021.37231,
+                    "y1": 1016.78888,
+                    "x2": 2108.3042,
+                    "y2": 1207.20679
+                }
+            }
+        ],
+        "description": {
+            "answer": " The scene is a city street with a green auto rickshaw, a motorcycle, and several cars. There are two lanes of traffic. The weather appears to be sunny. It is daytime."
+        }
+    },
+    "14.jpg": {
+        "detections": [
+            {
+                "name": "dog",
+                "class": 16,
+                "confidence": 0.30485,
+                "box": {
+                    "x1": 200.70818,
+                    "y1": 124.4955,
+                    "x2": 222.00316,
+                    "y2": 176.33905
+                }
+            }
+        ],
+        "description": {
+            "answer": " The scene is a rural highway with a single lane. It is marked with white lines. The weather is sunny. The time of day is morning. There are no pedestrians visible."
+        }
+    },
+    "8.jpg": {
+        "detections": [
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.73641,
+                "box": {
+                    "x1": 1307.60889,
+                    "y1": 813.29681,
+                    "x2": 1630.073,
+                    "y2": 1367.69189
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.73587,
+                "box": {
+                    "x1": 311.11673,
+                    "y1": 752.96484,
+                    "x2": 523.18451,
+                    "y2": 1212.73438
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.57664,
+                "box": {
+                    "x1": 2502.40796,
+                    "y1": 1025.61841,
+                    "x2": 2727.03223,
+                    "y2": 1287.47095
+                }
+            },
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.57172,
+                "box": {
+                    "x1": 1687.2395,
+                    "y1": 953.68005,
+                    "x2": 1894.3186,
+                    "y2": 1184.81458
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.53878,
+                "box": {
+                    "x1": 590.65747,
+                    "y1": 859.14368,
+                    "x2": 692.698,
+                    "y2": 1122.56934
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.52831,
+                "box": {
+                    "x1": 1300.65186,
+                    "y1": 1095.20215,
+                    "x2": 1633.49292,
+                    "y2": 1458.27356
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.47593,
+                "box": {
+                    "x1": 693.46423,
+                    "y1": 857.01617,
+                    "x2": 799.24414,
+                    "y2": 1139.06567
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.38535,
+                "box": {
+                    "x1": 3020.29492,
+                    "y1": 1020.51746,
+                    "x2": 3162.25879,
+                    "y2": 1177.10706
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.37638,
+                "box": {
+                    "x1": 2269.67798,
+                    "y1": 1012.79901,
+                    "x2": 2382.49658,
+                    "y2": 1108.21313
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.35009,
+                "box": {
+                    "x1": 549.04004,
+                    "y1": 867.18219,
+                    "x2": 610.1958,
+                    "y2": 1118.72876
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.33602,
+                "box": {
+                    "x1": 2509.99219,
+                    "y1": 931.19373,
+                    "x2": 2700.19482,
+                    "y2": 1201.47705
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.31881,
+                "box": {
+                    "x1": 2506.50366,
+                    "y1": 1056.453,
+                    "x2": 2683.54907,
+                    "y2": 1285.6842
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.31165,
+                "box": {
+                    "x1": 541.24817,
+                    "y1": 860.54645,
+                    "x2": 669.5094,
+                    "y2": 1121.62256
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.29563,
+                "box": {
+                    "x1": 2545.89453,
+                    "y1": 940.3266,
+                    "x2": 2684.7998,
+                    "y2": 1179.00757
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.28709,
+                "box": {
+                    "x1": 2075.02051,
+                    "y1": 998.61658,
+                    "x2": 2184.62354,
+                    "y2": 1113.7196
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.25876,
+                "box": {
+                    "x1": 2000.81201,
+                    "y1": 987.73938,
+                    "x2": 2079.1001,
+                    "y2": 1148.41138
+                }
+            }
+        ],
+        "description": {
+            "answer": " The scene is a city street with multiple lanes. There are markings on the road, and it appears to be a sunny day. There are a few pedestrians visible. The time of day is likely morning or dusk, as the light is soft and there are no strong shadows."
+        }
+    },
+    "2.jpg": {
+        "detections": [
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.89509,
+                "box": {
+                    "x1": 2186.41016,
+                    "y1": 936.42773,
+                    "x2": 3257.40332,
+                    "y2": 1514.18335
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.77096,
+                "box": {
+                    "x1": 1255.02197,
+                    "y1": 934.09863,
+                    "x2": 1349.57104,
+                    "y2": 1231.49194
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.7365,
+                "box": {
+                    "x1": 2065.41064,
+                    "y1": 1019.47906,
+                    "x2": 2265.63574,
+                    "y2": 1189.06323
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.67881,
+                "box": {
+                    "x1": 1401.04712,
+                    "y1": 953.35974,
+                    "x2": 1479.99438,
+                    "y2": 1173.28296
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.67434,
+                "box": {
+                    "x1": 1118.8114,
+                    "y1": 908.26831,
+                    "x2": 1234.25867,
+                    "y2": 1220.74036
+                }
+            },
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.65734,
+                "box": {
+                    "x1": 1834.24805,
+                    "y1": 976.59302,
+                    "x2": 2030.40674,
+                    "y2": 1226.38477
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.5191,
+                "box": {
+                    "x1": 1615.29822,
+                    "y1": 993.70825,
+                    "x2": 1700.59351,
+                    "y2": 1144.16565
+                }
+            }
+        ],
+        "description": {
+            "answer": " The scene is a city street with a multi-lane road. There are two lanes of traffic, and a pedestrian walkway is visible on the left side of the road. The sky is clear and bright, suggesting it's daytime. There are no visible markings on the road. The weather appears to be sunny and clear. The time of day is likely morning or early afternoon."
+        }
+    },
+    "3.jpg": {
+        "detections": [
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.81968,
+                "box": {
+                    "x1": 1473.16553,
+                    "y1": 992.95618,
+                    "x2": 1907.83997,
+                    "y2": 1366.04822
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.75639,
+                "box": {
+                    "x1": 1170.38159,
+                    "y1": 930.0921,
+                    "x2": 1401.3252,
+                    "y2": 1317.46802
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.68439,
+                "box": {
+                    "x1": 460.28339,
+                    "y1": 908.76965,
+                    "x2": 1205.87073,
+                    "y2": 1407.99536
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.67398,
+                "box": {
+                    "x1": 1147.48413,
+                    "y1": 1114.47778,
+                    "x2": 1396.25354,
+                    "y2": 1438.32739
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.58818,
+                "box": {
+                    "x1": 162.84801,
+                    "y1": 976.6228,
+                    "x2": 448.35028,
+                    "y2": 1299.0332
+                }
+            },
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.44585,
+                "box": {
+                    "x1": 1363.20959,
+                    "y1": 944.45544,
+                    "x2": 1592.25049,
+                    "y2": 1152.00623
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.4293,
+                "box": {
+                    "x1": 1892.99048,
+                    "y1": 1043.99121,
+                    "x2": 2034.30029,
+                    "y2": 1160.93701
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.38513,
+                "box": {
+                    "x1": 358.15091,
+                    "y1": 959.5188,
+                    "x2": 499.40488,
+                    "y2": 1190.94397
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.37306,
+                "box": {
+                    "x1": 184.94284,
+                    "y1": 1140.93274,
+                    "x2": 467.76224,
+                    "y2": 1369.76953
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.3714,
+                "box": {
+                    "x1": 2128.99438,
+                    "y1": 1083.65015,
+                    "x2": 2323.52588,
+                    "y2": 1201.42883
+                }
+            }
+        ],
+        "description": {
+            "answer": " The scene is a multi-lane road with a median. It is marked with white lines. The weather appears to be sunny. The time of day is likely morning or early afternoon. There are no pedestrians visible in the image."
+        }
+    },
+    "13.jpg": {
+        "detections": [
+            {
+                "name": "cow",
+                "class": 19,
+                "confidence": 0.87406,
+                "box": {
+                    "x1": 263.77466,
+                    "y1": 184.30957,
+                    "x2": 343.65674,
+                    "y2": 238.18634
+                }
+            },
+            {
+                "name": "cow",
+                "class": 19,
+                "confidence": 0.55136,
+                "box": {
+                    "x1": 129.2119,
+                    "y1": 182.46594,
+                    "x2": 150.9131,
+                    "y2": 219.61528
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.29945,
+                "box": {
+                    "x1": 349.60812,
+                    "y1": 177.789,
+                    "x2": 357.64975,
+                    "y2": 194.08566
+                }
+            }
+        ],
+        "description": {
+            "answer": " Two cows are crossing a two-lane road. The road is marked with white lines. The sky is cloudy. It appears to be daytime. There are no pedestrians visible."
+        }
+    },
+    "12.jpg": {
+        "detections": [
+            {
+                "name": "cow",
+                "class": 19,
+                "confidence": 0.92623,
+                "box": {
+                    "x1": 489.95261,
+                    "y1": 385.00839,
+                    "x2": 692.01898,
+                    "y2": 801.4375
+                }
+            },
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.87482,
+                "box": {
+                    "x1": 219.6516,
+                    "y1": 149.56131,
+                    "x2": 539.80267,
+                    "y2": 464.7092
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.8094,
+                "box": {
+                    "x1": 785.96576,
+                    "y1": 250.50557,
+                    "x2": 846.909,
+                    "y2": 432.7569
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.7509,
+                "box": {
+                    "x1": 75.03965,
+                    "y1": 257.71945,
+                    "x2": 141.07959,
+                    "y2": 427.83243
+                }
+            },
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.59335,
+                "box": {
+                    "x1": 837.02405,
+                    "y1": 150.74774,
+                    "x2": 1122.27991,
+                    "y2": 539.37274
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.55897,
+                "box": {
+                    "x1": 594.89294,
+                    "y1": 246.12381,
+                    "x2": 624.93707,
+                    "y2": 335.83719
+                }
+            },
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.48143,
+                "box": {
+                    "x1": 1114.6272,
+                    "y1": 227.50555,
+                    "x2": 1199.6449,
+                    "y2": 408.24728
+                }
+            },
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.45738,
+                "box": {
+                    "x1": 613.70404,
+                    "y1": 198.8791,
+                    "x2": 710.02893,
+                    "y2": 312.634
+                }
+            },
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.44537,
+                "box": {
+                    "x1": 0.4604,
+                    "y1": 186.0047,
+                    "x2": 76.26456,
+                    "y2": 466.91833
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.35507,
+                "box": {
+                    "x1": 0.0,
+                    "y1": 180.12679,
+                    "x2": 28.0892,
+                    "y2": 287.90216
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.35092,
+                "box": {
+                    "x1": 724.13586,
+                    "y1": 224.62164,
+                    "x2": 748.93951,
+                    "y2": 305.22696
+                }
+            },
+            {
+                "name": "umbrella",
+                "class": 25,
+                "confidence": 0.34822,
+                "box": {
+                    "x1": 58.42889,
+                    "y1": 211.47641,
+                    "x2": 145.08521,
+                    "y2": 249.71338
+                }
+            },
+            {
+                "name": "bicycle",
+                "class": 1,
+                "confidence": 0.33681,
+                "box": {
+                    "x1": 148.23608,
+                    "y1": 311.86237,
+                    "x2": 186.37218,
+                    "y2": 396.47659
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.28258,
+                "box": {
+                    "x1": 1109.42395,
+                    "y1": 263.26324,
+                    "x2": 1153.00745,
+                    "y2": 417.71887
+                }
+            },
+            {
+                "name": "umbrella",
+                "class": 25,
+                "confidence": 0.25755,
+                "box": {
+                    "x1": 57.90759,
+                    "y1": 210.57254,
+                    "x2": 167.45831,
+                    "y2": 265.42978
+                }
+            }
+        ],
+        "description": {
+            "answer": " The scene is a busy street with multiple lanes, marked by white lines. It appears to be a sunny day, and the time of day is likely morning or early afternoon. There are pedestrians present, and the vehicles are mostly blue and white."
+        }
+    },
+    "10.jpg": {
+        "detections": [
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.86378,
+                "box": {
+                    "x1": 2472.43115,
+                    "y1": 975.37793,
+                    "x2": 3045.5,
+                    "y2": 1313.43384
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.8595,
+                "box": {
+                    "x1": 3256.93311,
+                    "y1": 694.61218,
+                    "x2": 3838.98682,
+                    "y2": 1803.78101
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.83317,
+                "box": {
+                    "x1": 34.43454,
+                    "y1": 990.58063,
+                    "x2": 837.27539,
+                    "y2": 1793.20337
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.82098,
+                "box": {
+                    "x1": 3116.04565,
+                    "y1": 1108.49585,
+                    "x2": 3837.88403,
+                    "y2": 1874.75781
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.72608,
+                "box": {
+                    "x1": 1339.13086,
+                    "y1": 878.37488,
+                    "x2": 1602.63135,
+                    "y2": 1308.14758
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.69877,
+                "box": {
+                    "x1": 2058.03735,
+                    "y1": 981.53558,
+                    "x2": 2363.22217,
+                    "y2": 1220.31982
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.67242,
+                "box": {
+                    "x1": 1629.88306,
+                    "y1": 981.57587,
+                    "x2": 1838.28979,
+                    "y2": 1156.71509
+                }
+            },
+            {
+                "name": "motorcycle",
+                "class": 3,
+                "confidence": 0.59757,
+                "box": {
+                    "x1": 1355.84619,
+                    "y1": 1153.52783,
+                    "x2": 1563.62988,
+                    "y2": 1384.32532
+                }
+            },
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.59412,
+                "box": {
+                    "x1": 892.29272,
+                    "y1": 897.99976,
+                    "x2": 1293.74219,
+                    "y2": 1292.79785
+                }
+            },
+            {
+                "name": "truck",
+                "class": 7,
+                "confidence": 0.54623,
+                "box": {
+                    "x1": 1892.64148,
+                    "y1": 980.68848,
+                    "x2": 2035.40588,
+                    "y2": 1138.33875
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.53378,
+                "box": {
+                    "x1": 1893.64868,
+                    "y1": 982.01862,
+                    "x2": 2036.16089,
+                    "y2": 1137.89844
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.42451,
+                "box": {
+                    "x1": 1813.68433,
+                    "y1": 973.2464,
+                    "x2": 1904.43994,
+                    "y2": 1121.47876
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.41124,
+                "box": {
+                    "x1": 285.12183,
+                    "y1": 833.56659,
+                    "x2": 629.93616,
+                    "y2": 1570.36157
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.37827,
+                "box": {
+                    "x1": 52.19962,
+                    "y1": 718.60767,
+                    "x2": 828.20233,
+                    "y2": 1539.28247
+                }
+            },
+            {
+                "name": "person",
+                "class": 0,
+                "confidence": 0.28716,
+                "box": {
+                    "x1": 279.41489,
+                    "y1": 802.00415,
+                    "x2": 771.73279,
+                    "y2": 1577.18311
+                }
+            },
+            {
+                "name": "car",
+                "class": 2,
+                "confidence": 0.28646,
+                "box": {
+                    "x1": 2383.21069,
+                    "y1": 1009.83856,
+                    "x2": 2480.90112,
+                    "y2": 1114.10938
+                }
+            }
+        ],
+        "description": {
+            "answer": " The scene depicts a busy street with multiple lanes, marked by white lines. It appears to be a sunny day, with a light blue sky. The time of day is likely dusk or dawn, as the lighting suggests it's not midday. There are no visible pedestrians in the image."
+        }
+    }
+}
