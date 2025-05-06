@@ -7,6 +7,9 @@ from transformers import AutoModelForCausalLM
 from ultralytics import YOLO
 from PIL import Image, ImageDraw
 import random
+import torch
+
+torch.classes.__path__ = [os.path.join(torch.__path__[0], torch.classes.__file__)] 
 
 @st.cache_resource
 def load_model():
