@@ -11,7 +11,7 @@ import torch
 
 torch.classes.__path__ = []
 
-@st.cache_resource
+# @st.cache_resource
 def load_model():
     return AutoModelForCausalLM.from_pretrained(
         "vikhyatk/moondream2",
